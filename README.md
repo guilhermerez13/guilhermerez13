@@ -16,3 +16,8 @@ Apaixonado por tecnologia e programação.
 
 Experiência em desenvolvimento de projetos com Python e React Native.
 Atualmente sou professor na Instituição de ensino Senai nas áreas de Automação, Elétrica e Programação.
+
+Entre em Contato!
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/guilherme-camargo-654186221/)
